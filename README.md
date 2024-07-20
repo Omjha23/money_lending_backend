@@ -6,7 +6,7 @@
 
 *Validation Criteria*
 
-*1. User should be above 20 years of age. *
+*1. User should be above 20 years of age.*
 ![image](https://github.com/user-attachments/assets/f7895f46-ba1e-4a0c-b097-961c8e743c84)
 
 *2. Monthly salary should be 25k or more.*
